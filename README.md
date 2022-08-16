@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jvlinkin, 25 years old, and learning how to build websites!
 - 👀 I’m interested in technology and how things works!
-- 🌱 I’m currently learning the enviroment of Node.js (Javascript), MySQL and MongoDB, API, and Handlebars (front)!
+- 🌱 I’m currently learning the enviroment of Node.js (Javascript), MySQL, Postgres, MongoDB, API and Docker!
 
 
 <!---
