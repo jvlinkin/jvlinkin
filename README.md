@@ -2,7 +2,10 @@
 ###### 👋 Me chamo João Vitor Paiva, tenho 25 anos, estudo e construo aplicações back-end.
 ###### 👀 Sou muito curioso sobre como a tecnologia funciona!
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jvlpaiva)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvlpaiva)
+
+
+
 
 [![João Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=jvlinkin&hide=contribs,stars&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
