@@ -3,6 +3,9 @@
 ###### 👀 Sou muito curioso sobre como a tecnologia funciona!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvlpaiva)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5541996041685&text=Ol%C3%A1%2C%20te%20achei%20no%20GitHub)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvlimapaiva@gmail.com)
+
 
 
 
