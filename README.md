@@ -1,5 +1,5 @@
 ### Olá! Bem vindo ao meu GitHub! 🤙
-###### 👋 Me chamo João Vitor Paiva, tenho 25 anos, estudo e construo aplicações back-end.
+###### 👋 Me chamo João Vitor Paiva, tenho 25 anos, estudo e construo aplicações web.
 ###### 👀 Sou muito curioso sobre como a tecnologia funciona!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvlpaiva)
